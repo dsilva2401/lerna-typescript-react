@@ -1,0 +1,3 @@
+exports.testFunctionA = () => {
+  return 'Hello!'
+}
